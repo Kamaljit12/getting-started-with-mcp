@@ -1,2 +1,6 @@
-# getting-started-with-mcp
-This is for practice about MCP server
+## About MCP server
+
+```
+# Conceptual installation for an MCP framework
+pip install fastmcp
+```
